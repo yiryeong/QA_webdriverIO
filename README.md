@@ -15,7 +15,8 @@ node, npm 설치 된 상태에서 실행 가능
 
 # node 버전이 16일 경우 발생할 수 있는 문제 
 1. Assertion failed: (thread_id_key != 0x7777), function find_thread_id_key, file ../src/coroutine.cc, line 134.
-   node 16 버전과 fiber 호환 안 되서 발생하는 문제
+   
+node 16 버전과 fiber 호환 안 되서 발생하는 문제
 
 해결방법 : 
 
