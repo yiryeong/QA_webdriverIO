@@ -2,12 +2,15 @@
 무신사 스토어 로그인 테스트 부분 자동화
 
 
-node, npm 설치 된 상태에서 실행 가능
-
+실행 환경 :
+ - node 14
+ - npm 6
 
 실행 명령어 : npx wdio run wdio.conf.js
 
 
+node, npm 설치 된 상태에서 실행 가능
+npx는 npm 5.2 이상부터 지원 함
 
 
 
