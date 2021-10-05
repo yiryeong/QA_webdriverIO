@@ -27,7 +27,7 @@ node 16 버전과 fiber 호환 안 되서 발생하는 문제
 
 해결방법 : 
 
-// node 버전 확인
+// node 버전 확인\n
 node -v
 
 // Cache 삭제
